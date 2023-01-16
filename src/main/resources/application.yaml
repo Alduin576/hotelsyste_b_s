@@ -1,0 +1,6 @@
+#####配置多环境开发
+spring:
+  profiles:
+    active: dev
+
+
